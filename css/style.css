@@ -149,6 +149,10 @@ p {
     text-transform: uppercase;
     border-right: 1px solid #ec1839;
 }
+.home .home-to-website {
+    text-align: center;
+    margin-top: 30px;
+}
 /* About */
 .about .about-content {
     flex: 0 0 100%;
